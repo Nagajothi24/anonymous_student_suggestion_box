@@ -1,0 +1,2 @@
+# anonymous_student_suggestion_box
+This project is a web-based application designed to collect anonymous suggestions or feedback from students. It allows students to submit their opinions, concerns, or ideas without revealing their identity. The suggestions are stored securely in a MongoDB database, and only the admin can view them by logging into a protected dashboard. This system encourages honest feedback and helps educational institutions improve their services based on student inputs.
